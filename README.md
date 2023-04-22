@@ -430,5 +430,3 @@ except ValueError:
 
 # 패키지
 모듈들의 집합
-
-# Python_basic
