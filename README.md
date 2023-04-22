@@ -91,7 +91,7 @@ a.clear # 리스트 모두 삭제
 a.extend(b)
 
 
-# 사전 (dictionary)
+# dictionary
 
 변수 = {키 : 벨류, key : value}
 
